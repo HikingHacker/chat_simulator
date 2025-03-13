@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Project specific
+/content/*
+!/content/03_12_2025_195307/
+/conversations/*
+!/conversations/demo_conversation.txt
+CLAUDE.md
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store

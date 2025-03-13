@@ -1,0 +1,3 @@
+A: Hi there! Welcome to the Content Automation Toolkit.
+B: Thanks! This makes creating chat screenshots super easy.
+A: Glad you like it! You can customize fonts, colors, and spacing too.
